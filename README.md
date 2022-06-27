@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Pierreson
 - 🌱 Estou iniciando em programação: Java, Html, Css...
-- :ebook:
+- 📖 
 -
 
 <!---
