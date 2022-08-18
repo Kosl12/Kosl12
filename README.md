@@ -1,6 +1,6 @@
-- 👋 Olá, meu nome é Pierreson
+- 👋 Olá, sou o Kosl12
 - 🌱 Estou iniciando em programação: Java, Html, Css...
-- 📖 
+- 📖 Acompanhando os estudos pela plataforma alura colocando em pratica algumas aulas.
 -
 
 <!---
