@@ -1,6 +1,6 @@
 - 👋 Olá, sou o Kosl12
 - 🌱 Estou iniciando em programação: Java, Html, Css...
-- 📖 Acompanhando os estudos pela plataforma alura colocando em pratica algumas aulas.
+- 📖 Acompanhando os estudos pela plataforma Alura e colocando em pratica algumas aulas.
 -
 
 <!---
